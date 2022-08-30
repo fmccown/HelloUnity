@@ -10,7 +10,6 @@ public class NewBehaviourScript : MonoBehaviour
     void Start()
     {
         
-        print("Hello Unity!");
     }
 
     // Update is called once per frame
